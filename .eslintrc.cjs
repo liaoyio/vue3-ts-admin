@@ -9,7 +9,7 @@ module.exports = {
     '@vue/eslint-config-typescript',
     '@vue/eslint-config-prettier'
   ],
-  plugins: ['import'],
+  plugins: ['import', 'eslint-plugin-import'],
   parserOptions: {
     ecmaVersion: 'latest'
   },
