@@ -4,3 +4,5 @@ types
 src/lib/*.js
 tailwind.config.cjs
 index.html
+commitlint.config.cjs
+vite.config.ts

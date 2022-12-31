@@ -32,7 +32,7 @@ module.exports = {
     // 是否强制分号
     semi: 0,
     // 括号前后强制一个空格
-    'object-curly-spacing': 1,
+    'object-curly-spacing': 0,
     // 禁止使用多余的包
     'import/no-extraneous-dependencies': [1, { devDependencies: true }],
     // import 后必须是新行
